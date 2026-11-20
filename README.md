@@ -1,6 +1,6 @@
 # ZIP CRACKER – ZIP Archive Password Recovery
 
-**ALPHA RELEASE |Encrypted Zip Archive Recovery Version 2.0
+** ALPHA RELEASE |Encrypted Zip Archive Recovery Version 2.0 **
 
 <p align="center">
   <img src="https://github.com/BroadbentT/ZIP-CRACKER/blob/master/ZIP%20Cracker%20Interface.png" alt="ZIP CRACKER – ZIP Archive Password Recovery" width="100%">
