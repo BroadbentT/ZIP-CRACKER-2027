@@ -1,14 +1,10 @@
 # ZIP CRACKER – ZIP Archive Password Recovery
 
-<p align="center">
-  <img src="ZIP-CRACKER-Banner.png" alt="ZIP CRACKER – ZIP Archive Password Recovery" width="100%">
-</p>
+**ALPHA RELEASE |Encrypted Zip Archive Recovery Version 2.0
 
 <p align="center">
-  **PYTHON 3 | ENCRYPTED ZIP ARCHIVE RECOVERY | VERSION 2.0**
+  <img src="https://github.com/BroadbentT/ZIP-CRACKER/blob/master/ZIP%20Cracker%20Interface.png" alt="ZIP CRACKER – ZIP Archive Password Recovery" width="100%">
 </p>
-
----
 
 ## PROJECT OVERVIEW
 
